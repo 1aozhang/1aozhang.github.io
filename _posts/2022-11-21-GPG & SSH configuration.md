@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "GPG & SSH configuration"
 date: 2022-11-21 00:26
 category: github
